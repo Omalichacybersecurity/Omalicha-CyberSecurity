@@ -5,19 +5,11 @@ Currently, I’m advancing my skills in security automation, with hands-on exper
 
 # What You’ll Find in This Portfolio
 
-In this repository, you’ll explore real-world cloud security projects, configurations, and hands-on labs that demonstrate my technical skills and problem-solving approach. These projects are based on Microsoft Azure, aligning with industry best practices and AZ-500 certification objectives.
-
-📁 Resume
-
-Check out my resume Hello! I’m Omalicha Umehea, a passionate Cloud Security Engineer dedicated to protecting cloud environments and implementing secure, scalable architectures. My expertise lies in Azure Security Technologies, cloud threat protection, and compliance-driven security solutions.
-
-Currently, I’m advancing my skills in cloud security engineering, with hands-on experience in Microsoft Defender for Cloud, Role-Based Access Control (RBAC), Log Analytics, and data protection strategies. My goal is to design and enforce Zero Trust principles, enabling organizations to safeguard their cloud workloads effectively.
-
 What You’ll Find in This Portfolio
 
 In this repository, you’ll explore real-world cloud security projects, configurations, and hands-on labs that demonstrate my technical skills and problem-solving approach. These projects are based on Microsoft Azure, aligning with industry best practices and AZ-500 certification objectives.
 
- Resume
+# Resume
 
 You can hit me up anywhere for a copy of my CV, dont be shy! :)
 .
@@ -86,7 +78,3 @@ Designed secure logging strategy for hybrid cloud environments
 # Career Focus
 
 I’m committed to helping businesses secure their cloud environments while maintaining operational efficiency and compliance. My focus areas include identity and access management, cloud security posture management, and threat detection automation.
-
-
-
-GitHub: [Your GitHub Profile Link]
