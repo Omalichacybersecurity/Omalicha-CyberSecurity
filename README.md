@@ -1,5 +1,5 @@
 # Welcome to Omalicha's Cloud Security Portfolio
-Hello! I’m Priscillia Omalicha Umehea, a passionate Cloud Security Engineer dedicated to protecting cloud environments and implementing secure, scalable architectures. My expertise lies in Cloud Security Aichitecture, cloud threat protection, and compliance-driven security solutions.
+Hello! I’m Priscillia Omalicha Umehea, a passionate Cloud Security Engineer dedicated to protecting cloud environments and implementing secure, scalable architectures. My expertise lies in Cloud Security Achitecture, cloud threat protection, and compliance-driven security solutions.
 
 Currently, I’m advancing my skills in security automation, with hands-on experience in Microsoft Defender for Cloud, Role-Based Access Control (RBAC), Log Analytics, and data protection strategies. My goal is to design and enforce Zero Trust principles, enabling organizations to safeguard their cloud workloads effectively.
 
